@@ -15,4 +15,4 @@
 # Edge Cases
 
 * when the lowest day is last day
-* when highest d
+* when highest day is the first day
